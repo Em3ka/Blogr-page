@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Em3ka/Blogr-page)
-- Live Site URL: [Blogr-page](https://your-live-site-url.com)
+- Live Site URL: [Blogr-page](https://fem-blogr-page.netlify.app/)
 
 ## My process
 
